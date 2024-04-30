@@ -4,4 +4,3 @@ Test changes
 Test changes2
 Test changes3
 user1 changed file 1
-user2 changed file 1
