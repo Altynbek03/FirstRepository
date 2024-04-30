@@ -1,4 +1,5 @@
 Good bye!
 User2 changged
 Second changed from user2
-Changes from user1
+changes from user1
+Second changes from user1
