@@ -4,3 +4,4 @@ Test changes2
 Test changes3
 user1 changed file 1
 changes from master
+user1 changed file 1 2
